@@ -31,8 +31,9 @@ https://github.com/user-attachments/assets/8e79c919-8993-4af8-a3da-071d8280b3a6
 ## Dataset 📖
 Here is a link for the dataset used in training the model: https://drive.google.com/file/d/1ONFwkFTxkGCnTX5IfnGnE1rg9vz55csv/view?usp=sharing
 
-## Contributors 🦸‍♂️
+## Team 🦸‍♂️
 - Mostafa Hany
+- Moustafa Ali
 - Mostafa Hazem
 - Muhammad Nasser
 
