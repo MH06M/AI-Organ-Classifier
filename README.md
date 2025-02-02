@@ -37,7 +37,7 @@ Here is a link for the dataset used in training the model: https://drive.google.
 - Muhammad Nasser
 
 ## License 🧾
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/AI-Organ-Classifier/blob/67aedf784f6c46ac4acb526b1b8720ee78b4ec0b/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MH06M/AI-Organ-Classifier/blob/main/LICENSE) for details.
 
 ## Contact 📞
 Email: mostafahany748@gmail.com <br>
